@@ -2,7 +2,9 @@
 
 常见简单算法和程序设计题目（整理ing）。
 
-```
+## 目录结构
+
+```haskell
 .
 ├── list    线性结构
 │   └── list.cpp
@@ -22,7 +24,10 @@
     ├── strings.cpp        简单字符串处理
     ├── expressions.cpp    表达式求值
     └── sequences.cpp      序列
-
 ```
 
-目前部分代码存在注释不全的问题（主要是图论算法），也大量经典算法没有补充进来（如最短路径、最小生成树、KMP等）。欢迎提 issue和 pull request。
+目前部分代码存在注释不全的问题（主要是图论算法），也有大量经典算法没有补充进来（如最短路径、最小生成树、KMP等）。欢迎提 issue和 pull request。
+
+## License
+
+[GPL-2.0](https://github.com/xCss/Valine/blob/master/LICENSE)
