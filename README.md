@@ -6,7 +6,7 @@
 .
 ├── list    线性结构
 │   └── list.cpp
-└── tree	树结构与算法
+└── tree    树结构与算法
 │   ├── bst.cpp      	  二叉树基础算法
 │   ├── bst-extend.cpp    二叉树扩展应用
 │   └── bst-iterative.cpp 二叉树非递归算法
